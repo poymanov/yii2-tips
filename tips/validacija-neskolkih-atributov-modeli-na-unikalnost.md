@@ -12,7 +12,7 @@
 public function rules()
 {
     return [
-        ['a1', 'a2'], 'unique', 'targetAttribute' => ['a1', 'a2']
+        ['category_id', 'product_id'], 'unique', 'targetAttribute' => ['category_id', 'product_id']
     ];
 }
 ```
