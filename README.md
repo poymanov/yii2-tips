@@ -9,3 +9,4 @@
 
 * [Проверка таблицы БД на существование](tips/proverka-tablicy-bd-na-sushhestvovanie.md)
 * [Редирект на предыдущую страницу](tips/redirekt-na-predydushhuju-stranicu.md)
+* [Валидация нескольких атрибутов модели на уникальность](tips/validacija-neskolkih-atributov-modeli-na-unikalnost.md)
