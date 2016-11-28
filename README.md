@@ -8,3 +8,4 @@
 ## Содержание
 
 [Проверка таблицы БД на существование](tips/proverka-tablicy-bd-na-sushhestvovanie.md)
+[Редирект на предыдущую страницу](tips/redirekt-na-predydushhuju-stranicu.md)
