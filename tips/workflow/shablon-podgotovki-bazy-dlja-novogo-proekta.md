@@ -16,7 +16,7 @@ GRANT ALL PRIVILEGES ON demouser.* TO demo@localhost IDENTIFIED BY 'demopass';
 mysql -uroot -proot
 ```
 
-Эта команда удалит базу с именем **demo**, если такая уже существует:
+Эта команда удалит базу с именем **```demo```**, если такая уже существует:
 
 ```bash
 DROP DATABASE IF EXISTS `demo`;
@@ -27,7 +27,7 @@ DROP DATABASE IF EXISTS `demo`;
 CREATE DATABASE IF NOT EXISTS `demo` DEFAULT CHARACTER SET utf8 DEFAULT COLLATE utf8_general_ci;
 ```
 
-Эта команда создаст пользователя **demouser** с паролем **demopass** и присвоим ему полный набор прав для управления базой **demo**:
+Эта команда создаст пользователя **```demouser```** с паролем **```demopass```** и присвоит ему полный набор прав для управления базой **demo**:
 ```bash
 GRANT ALL PRIVILEGES ON demouser.* TO demo@localhost IDENTIFIED BY 'demopass';
 ```
