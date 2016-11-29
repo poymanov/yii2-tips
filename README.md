@@ -20,3 +20,4 @@
 
 ## Рабочий процесс
 * [Шаблон подготовки базы для нового проекта](/tips/workflow/shablon-podgotovki-bazy-dlja-novogo-proekta.md)
+
