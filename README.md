@@ -16,3 +16,4 @@
 
 ## GridView
 * [Использование виджета Select2 для фильтров GridView](tips/gridview/ispolzovanie-vidzheta-select2-dlja-filtrov-gridview.md)
+* [Добавление своей кнопки в ActionView для колонки GridView](/tips/views/dobavlenie-svoej-knopki-v-actionview-dlja-kolonki-gridview/dobavlenie-svoej-knopki-v-аctionview-dlja-кolonki-gridview.md)
