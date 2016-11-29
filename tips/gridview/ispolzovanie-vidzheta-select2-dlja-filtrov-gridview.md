@@ -25,7 +25,6 @@
        'pluginOptions' => [
            'allowClear' => true,
            'width' => '170px',
-           'containerCssClass' => 'select2-cyberft'
        ],
    ]),
    'value' => function ($item, $params) {
