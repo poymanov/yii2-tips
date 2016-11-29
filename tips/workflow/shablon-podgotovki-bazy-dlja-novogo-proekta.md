@@ -22,7 +22,7 @@ mysql -uroot -proot
 DROP DATABASE IF EXISTS `demo`;
 ```
 
-Эта команда создаст базу с именем **demo** (если она уже не сущесвует) и установит ей кодировку utf-8:
+Эта команда создаст базу с именем **```demo```** (если она уже не существует) и установит ей кодировку utf-8:
 ```bash
 CREATE DATABASE IF NOT EXISTS `demo` DEFAULT CHARACTER SET utf8 DEFAULT COLLATE utf8_general_ci;
 ```
