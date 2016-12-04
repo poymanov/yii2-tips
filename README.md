@@ -23,4 +23,3 @@
 ## Рабочий процесс
 * [Шаблон подготовки базы для нового проекта](/tips/workflow/shablon-podgotovki-bazy-dlja-novogo-proekta.md)
 * [Безопасное хранение данных подключения к БД и параметров в базовом шаблоне приложения](/tips/workflow/bezopasnoe-hranenie-dannyh-podkljuchenija-k-bd-i-parametrov-v-bazovom-shablone-prilozhenija.md)
-
