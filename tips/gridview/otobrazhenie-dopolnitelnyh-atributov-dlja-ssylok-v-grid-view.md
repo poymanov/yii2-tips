@@ -76,7 +76,7 @@ GridView::widget([
 <a href="/example-one/product-info?id=1" target="_blank" data-product-id="1">Ссылка</a>
 ```
 
-Итоговый код колонки **```GridView```** для достижения **```нужного результата```**:
+Итоговый код колонки **```GridView```** для достижения **нужного результата**:
 
 ```php
 [
