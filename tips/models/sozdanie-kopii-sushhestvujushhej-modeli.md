@@ -69,5 +69,5 @@ class ExampleOne extends ActiveRecord() {
 После копирования атрибутов в новую копию объекта **допускается изменять** значения атрибутов:
 
 ```php
-$modelCopy->name = 'New name'
+$modelCopy->name = 'New name';
 ```
