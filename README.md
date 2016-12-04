@@ -18,6 +18,7 @@
 * [Использование виджета Select2 для фильтров GridView](tips/gridview/ispolzovanie-vidzheta-select2-dlja-filtrov-gridview.md)
 * [Добавление своей кнопки в ActionColumn для колонки GridView](/tips/gridview/dobavlenie-svoej-knopki-v-actioncolumn-dlja-kolonki-gridview/dobavlenie-svoej-knopki-v-аctioncolumn-dlja-кolonki-gridview.md)
 * [Изменение URL для кнопок действий ActionColumn в GridView](/tips/gridview/izmenenie-url-dlja-knopok-dejstvij-action-column-v-grid-view.md)
+* [Отображение дополнительных атрибутов для ссылок в GridView](/tips/gridview/otobrazhenie-dopolnitelnyh-atributov-dlja-ssylok-v-grid-view.md)
 
 ## Рабочий процесс
 * [Шаблон подготовки базы для нового проекта](/tips/workflow/shablon-podgotovki-bazy-dlja-novogo-proekta.md)
