@@ -13,6 +13,7 @@
 
 ## Модели
 * [Валидация нескольких атрибутов модели на уникальность](tips/models/validacija-neskolkih-atributov-modeli-na-unikalnost.md)
+* [Создание копии существующей модели](tips/models/sozdanie-kopii-sushhestvujushhej-modeli.md)
 
 ## GridView
 * [Использование виджета Select2 для фильтров GridView](tips/gridview/ispolzovanie-vidzheta-select2-dlja-filtrov-gridview.md)
