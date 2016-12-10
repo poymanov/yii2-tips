@@ -15,6 +15,9 @@
 * [Валидация нескольких атрибутов модели на уникальность](tips/models/validacija-neskolkih-atributov-modeli-na-unikalnost.md)
 * [Создание копии существующей модели](tips/models/sozdanie-kopii-sushhestvujushhej-modeli.md)
 
+## Представления
+* [Указать текущий выбранный элемент списка DropdownList](tips/views/ukazat-tekushhij-vybrannyj-jelement-spiska-dropdown-list/ukazat-tekushhij-vybrannyj-jelement-spiska-dropdown-list.md)
+
 ## GridView
 * [Использование виджета Select2 для фильтров GridView](tips/gridview/ispolzovanie-vidzheta-select2-dlja-filtrov-gridview.md)
 * [Добавление своей кнопки в ActionColumn для колонки GridView](/tips/gridview/dobavlenie-svoej-knopki-v-actioncolumn-dlja-kolonki-gridview/dobavlenie-svoej-knopki-v-аctioncolumn-dlja-кolonki-gridview.md)
