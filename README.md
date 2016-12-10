@@ -14,6 +14,7 @@
 ## Модели
 * [Валидация нескольких атрибутов модели на уникальность](tips/models/validacija-neskolkih-atributov-modeli-na-unikalnost.md)
 * [Создание копии существующей модели](tips/models/sozdanie-kopii-sushhestvujushhej-modeli.md)
+* [Генерация ЧПУ-строки (sluggable behavior) для атрибута модели](tips/models/generacija-chpu-stroki-sluggable-behavior-dlja-atributa-modeli/generacija-chpu-stroki-sluggable-behavior-dlja-atributa-modeli.md)
 
 ## Представления
 * [Указать текущий выбранный элемент списка DropdownList](tips/views/ukazat-tekushhij-vybrannyj-jelement-spiska-dropdown-list/ukazat-tekushhij-vybrannyj-jelement-spiska-dropdown-list.md)
