@@ -18,7 +18,7 @@
 
 ## Представления
 * [Указать текущий выбранный элемент списка DropdownList](tips/views/ukazat-tekushhij-vybrannyj-jelement-spiska-dropdown-list/ukazat-tekushhij-vybrannyj-jelement-spiska-dropdown-list.md)
-* [Создание модального окна](tips/sozdanie-modalnogo-okna/sozdanie-modalnogo-okna.md)
+* [Создание модального окна](/tips/sozdanie-modalnogo-okna/sozdanie-modalnogo-okna.md)
 
 ## GridView
 * [Использование виджета Select2 для фильтров GridView](tips/gridview/ispolzovanie-vidzheta-select2-dlja-filtrov-gridview.md)
